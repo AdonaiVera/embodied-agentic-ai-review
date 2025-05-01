@@ -2,6 +2,7 @@
 **Embodied Intelligent Agents and Agentic AI: A Comprehensive Review of Agent Models**  
 
 > 📄 [Download PDF](https://storage.googleapis.com/tecla/Embodied_Intelligent_Agents_and_Agentic_AI__A_Comprehensive_Review_of_Agent_Models_paper.pdf)
+![embodied_agent_taxonomy (1)](https://github.com/user-attachments/assets/914b25a3-d913-48b5-80b6-033eb3666759)
 
 ---
 
